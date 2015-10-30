@@ -54,5 +54,5 @@
       clamp(r * m[1] + g * m[2] + b * m[0]),
       (rgb.length > 3 ? +rgb[3] : 1)
     ].join(", ") + ")";
-  }, 50); // Update with 50ms = 20fps
+  }, 50); // Rotate with 50ms = 20fps
 })();
