@@ -1,4 +1,4 @@
-<u>rainbowlinks.js</u> by Michele
+rainbowlinks.js by Michele
   
 This is a JavaScript library for rainbow links.
 
