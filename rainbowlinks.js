@@ -37,7 +37,7 @@
   })();
   
   function clamp(c) {
-    return Math.round(Math.min(Math.max(c, 0), 360));
+    return Math.round(Math.min(Math.max(c, 0), 255));
   }
   
   setInterval(function() {
