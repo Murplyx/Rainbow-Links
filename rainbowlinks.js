@@ -8,9 +8,9 @@
   the saturation and lightness. This way you can
   initialize the link with any color!
   
-  The library is as optimized as possible with
-  very few operations, this due to reduce as
-  much lag as possible (if even any lag!).
+  The library is written so that it is as
+  optimized as possible and uses as few operations
+  as possible.
 */
 
 (function() {
