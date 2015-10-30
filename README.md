@@ -1,3 +1,5 @@
+[123](http://www.thisiscolossal.com/wp-content/uploads/2015/03/florian-1.gif)
+
 rainbowlinks.js by Michele
   
 This is a JavaScript library for rainbow links.
@@ -10,3 +12,4 @@ initialize the link with any color!
 The library is written so that it is as
 optimized as possible and uses as few operations
 as possible.
+
