@@ -26,7 +26,7 @@
       link = null;
   });
   
-  var m = (function() { // Generate hue rotation matrix, see http://stackoverflow.com/a/8510751/2378102
+  var m = (function() { // Calculate hue rotation matrix, see http://stackoverflow.com/a/8510751/2378102
     var rad = 20 * Math.PI / 180; // 20 is the speed, degrees per frame, change this as you want
     
     var a = Math.cos(rad);
